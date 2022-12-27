@@ -1,0 +1,19 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "iText7-Core-7.2.4-only-jars/barcodes-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/commons-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/font-asian-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/forms-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/hyph-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/io-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/kernel-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/layout-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/pdfa-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/pdftest-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/sign-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/styled-xml-parser-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/svg-7.2.4.jar",
+        "iText7-Core-7.2.4-only-jars/slf4j-api-2.0.6.jar"
+    ]
+}
