@@ -289,7 +289,7 @@ public class PDFgen {
         }
 
         String documentString = s.toString();
-        String destfname = "output.pdf";
+        String destfname = "out.pdf";
 
         // Define argument count per instruction: for a longer set of arguments this
         // should move to a PDFFactory function
